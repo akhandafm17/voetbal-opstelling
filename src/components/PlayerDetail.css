@@ -1,0 +1,11 @@
+.detail{
+   text-align: center;
+}
+
+.detail img{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10%;
+    width: 30%;
+}

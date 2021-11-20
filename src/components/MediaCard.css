@@ -1,0 +1,19 @@
+.toast {
+    --toastify-color-dark: #F77C64;
+    --toastify-icon-color-success: #4ACA9D;
+    --toastify-text-color-dark: #000;
+    --toastify-color-progress-success: var(--toastify-icon-color-success);
+}
+
+.likeBtn{
+    height: 38px;
+    padding: 0 30px;
+    font-size: 11px;
+    background-color: transparent;
+    border-radius: 6px;
+}
+
+.card{
+    background-color: blueviolet;
+    border-radius: 50%;
+}

@@ -1,0 +1,21 @@
+
+.opOverzicht{
+    display: block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.opOvItem{
+  
+    padding-right: 2%;
+    margin: 0.7em;
+    width: 15em;    
+}
+
+.noitems{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
